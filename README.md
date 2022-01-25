@@ -1,4 +1,4 @@
 # Encapsulated Windows cmd
-"-m", "--main_cmd", required=True, help="main cmd"
+"-m", "--main_cmd", required=True
 
-"-a", "--cmd_argument", required=False, default="", help="cmd argument"
+"-a", "--cmd_argument", required=False, default=""
